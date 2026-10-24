@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Abduali 👋
 
-<!--
-**abduali-kaz/abduali-kaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux user with an interest in programming and cybersecurity.
 
-Here are some ideas to get you started:
+Currently learning Python, networking, and Linux internals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Linux & open source
+- Programming
+- Cybersecurity
+
+---
+
+*Always learning something new.*
